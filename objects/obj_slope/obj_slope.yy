@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite1",
-    "path":"sprites/Sprite1/Sprite1.yy",
+    "name":"spr_slope",
+    "path":"sprites/spr_slope/spr_slope.yy",
   },
   "spriteMaskId":null,
   "visible":true,

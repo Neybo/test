@@ -3,4 +3,5 @@ function input() {
 	up = keyboard_check(vk_up)
 	rig = keyboard_check(vk_right)
 	lef = keyboard_check(vk_left)
+	run = keyboard_check(vk_shift)
 }
